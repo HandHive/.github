@@ -29,7 +29,8 @@ https://explorer.celo.org/alfajores/tx/0x44c1cd0097708b4ec98110c839af9798153424e
 
 # Technologies Used
 
-Frontend: Next js
+Frontend: Next js 
+MongoDB: Database
 Backend: Solidity
 
 
@@ -45,3 +46,5 @@ https://youtu.be/1wO0yP_Rp50?si=NAUGCN7AVbTd9SCp
 
 ## live link
 https://handhive.netlify.app
+
+
