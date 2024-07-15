@@ -47,7 +47,9 @@ https://youtu.be/1wO0yP_Rp50?si=NAUGCN7AVbTd9SCp
 https://handhive.netlify.app
 
 ## Screenshot
-<img src="https://github.com/user-attachments/assets/4db390a8-9747-454d-b31f-74dc08f5b438" width="500">
-<img scr="https://github.com/user-attachments/assets/93793a58-2468-4720-bf66-36142d0b95cb" width="500">
-<img src="https://github.com/user-attachments/assets/b78917b3-8e07-4ac8-a50a-c7819459dbb7" width="500">
-<img scr="https://github.com/user-attachments/assets/6a9077af-ed8d-43d5-8fd8-356a69849c40" width="500">
+![Screenshot (55)](https://github.com/user-attachments/assets/4b05f559-c831-42b6-8e15-7593477388b8)
+![Screenshot (54)](https://github.com/user-attachments/assets/29867801-30c7-4a69-b233-060f6fb9def2)
+![Screenshot (53)](https://github.com/user-attachments/assets/cce4d92a-41ba-4d73-a8b8-010ffbbad9cb)
+![Screenshot (52)](https://github.com/user-attachments/assets/79297178-bc4f-4e36-901f-fc89549b23dc)
+![Screenshot (59)](https://github.com/user-attachments/assets/7f31da16-0fee-4a20-8725-c8d25e205c60)
+![Screenshot (56)](https://github.com/user-attachments/assets/92a663dd-b76f-4b68-af23-f5f0f968b1eb)
