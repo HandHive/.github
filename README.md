@@ -47,7 +47,9 @@ https://youtu.be/1wO0yP_Rp50?si=NAUGCN7AVbTd9SCp
 https://handhive.netlify.app
 
 ## Screenshot
-![Screenshot (55)](https://github.com/user-attachments/assets/4db390a8-9747-454d-b31f-74dc08f5b438 width:500px)
+<img src="https://github.com/user-attachments/assets/4db390a8-9747-454d-b31f-74dc08f5b438" width="500" >
+
+![Screenshot (55)](
 
 ![Screenshot (56)](https://github.com/user-attachments/assets/93793a58-2468-4720-bf66-36142d0b95cb)
 
