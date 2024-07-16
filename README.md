@@ -41,6 +41,9 @@ https://www.canva.com/design/DAGIcnHLjF0/sts5H-ISNq4dJxZ09btoCg/edit?utm_content
 ## Pitch Deck Video
 https://youtu.be/1wO0yP_Rp50?si=NAUGCN7AVbTd9SCp
 
+# Figma Prototype
+https://www.figma.com/proto/hl5jNIyvqnryxDFE3Eo9AR/errand-app?page-id=1%3A3&node-id=36-102&viewport=211%2C268%2C0.15&t=OrtD6izlTtoHynsw-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=36%3A102
+
 ## Project Demo Video
 
 ## live link
