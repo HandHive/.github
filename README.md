@@ -31,7 +31,7 @@ https://explorer.celo.org/alfajores/tx/0x44c1cd0097708b4ec98110c839af9798153424e
 Frontend: Next js 
 MongoDB: Database
 Backend: Solidity
-
+Added - SubQuery and Olas mech tool
 
 # Important
 
